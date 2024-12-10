@@ -6,7 +6,7 @@
 
 <h2 align="left">💻 Tech Skills 💻</h2>
 
-### - Programming Languages
+### - **Programming Languages**
 
 <div align="start"> 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="./assets/logos/php.svg" alt="php" height="60" /></a>  
@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com/c/" target="_blank"><img style="margin: 20px" src="./assets/logos/c.svg" alt="c" height="50" /></a>
 </div>
 
-### - Frameworks
+### - **Frameworks**
 
 <div align="start"> 
 <a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/laravel.svg" alt="laravel" height="45" /></a>  
@@ -22,7 +22,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/tailwind.svg" alt="tailwindcss" height="50" /></a>
 </div>
 
-### - Databases
+### - **Databases**
 
 <div align="start"> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/mysql.svg" alt="mysql" height="50" /></a>  
@@ -30,7 +30,7 @@
 </div>
 
 
-### - Tools and Technologies
+### - **Tools and Technologies**
 
 <div align="start"> 
 <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/github.svg" alt="github" height="50" /></a>  
@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhodovbobur&layout=compact&hide_border=true&theme=transparent" align="center"  alt=""/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=farhodovbobur&theme=transparent&hide_border=true" align="center"  alt=""/>
 </div>  
-
-
-## Hi there 👋
 
 <!--
 **farhodovbobur/farhodovbobur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
