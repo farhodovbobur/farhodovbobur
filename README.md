@@ -48,6 +48,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=farhodovbobur&theme=transparent&hide_border=true" align="center"  alt=""/>
 </div>  
 
+## 📫 Let's Connect!
+
+<div align="start"> 
+<a href="https://t.me/farhodov_bo1" target="_blank"><img style="margin: 20px" src="./assets/logos/telegram.svg" alt="telegram" height="50" /></a>  
+<a href="mailto:farhodovbobur@icloud.com" target="_blank"><img style="margin: 20px" src="./assets/logos/gmail.svg" alt="gmail" height="50" /></a>  
+<a href="https://www.linkedin.com/in/farhodovbobur/" target="_blank"><img style="margin: 20px" src="./assets/logos/linkedin.png" alt="linkedin" height="50" /></a>  
+</div>
+
 <!--
 **farhodovbobur/farhodovbobur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
