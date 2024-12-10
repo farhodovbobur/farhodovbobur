@@ -37,8 +37,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/docker.svg" alt="docker" height="50" /></a>  
 <a href="https://ru.wordpress.org/" target="_blank"><img style="margin: 20px" src="./assets/logos/wordpress.svg" alt="wordpress" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 20px" src="./assets/logos/postman.svg" alt="postman" height="50" /></a>  
-<a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 20px" src="./assets/logos/phpmyadmin.svg" alt="postman" height="50" /></a>  
-<a href="https://www.pgadmin.org/" target="_blank"><img style="margin: 20px 20px 25px 20px" src="./assets/logos/pgadmin.svg" alt="postman" height="30" /></a>  
 </div>
 
 ## 🔥 Stats 🔥
